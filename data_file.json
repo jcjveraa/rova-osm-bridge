@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 66,
+        "Guid": "3aa46056-9614-40f6-a764-d15a5b6e3ebb",
+        "Title": "ROVA Holding",
+        "Address": "Steinfurtstraat 2\r\n8028 PP Zwolle\r\nPostbus 204, 8000 AE Zwolle",
+        "OpeningHours": null,
+        "FacilityType": null,
+        "MapLocation": {
+            "latitude": null,
+            "longitude": null
+        }
+    }
+]

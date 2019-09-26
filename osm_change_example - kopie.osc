@@ -1,0 +1,16 @@
+<osmChange version="0.6" generator="CGImap 0.7.5 (12765 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+    <create>
+        <node id="6824998392" visible="true" version="1" changeset="74944142" timestamp="2019-09-26T08:24:18Z" user="Pozoman" uid="2911633" lat="52.5281190" lon="6.0592830">
+            <tag k="access" v="permit"/>
+            <tag k="amenity" v="waste_disposal"/>
+            <tag k="operator" v="ROVA"/>
+            <tag k="waste" v="trash"/>
+        </node>
+        <node id="-1" visible="true" version="1" changeset="74944142" timestamp="2019-09-26T08:24:18Z" user="Pozoman" uid="2911633" lat="52.5281191" lon="6.0592831">
+            <tag k="access" v="permit"/>
+            <tag k="amenity" v="waste_disposal"/>
+            <tag k="operator" v="ROVA"/>
+            <tag k="waste" v="trash"/>
+        </node>
+    </create>
+</osmChange>
